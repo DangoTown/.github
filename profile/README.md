@@ -1,9 +1,3 @@
-<style>
-img {
-    width: 16px;
-}
-</style>
-
 <div align=center>
 
 <h2>嗨👋, 这里是<a href="https://dgtmc.top">DangoTown</a> | <a href="https://dgtmc.top">团子小镇</a>的Github仓库</h2>
@@ -36,36 +30,36 @@ img {
 
 ## 服务器内各成员
 
-* ![DurexAir](https://avlist.deta.dev/DurexAir) `DurexAir` - 服主, 热衷于开服前几天钓鱼的屑
-* ![xiaoman1221](https://avlist.deta.dev/xiaoman1221) [xiaoman1221](https://yhdzz.cn) - 服务器运维+后台, 也是鸽子
-* ![RTAkland](https://avlist.deta.dev/RTAkland) [RTAkland](https://github.com/RTAkland) - 服务器管理, Mod开发者, 时不时上线
-* ![yokinanya](https://avlist.deta.dev/yokinanya) [yokinanya](https://github.com/yokinanya) - DGTES
+* <img src="https://avlist.deta.dev/DurexAir" alt="DurexAir" width="16px">`DurexAir` - 服主, 热衷于开服前几天钓鱼的屑
+* <img src="https://avlist.deta.dev/xiaoman1221" alt="xiaoman1221" width="16px">[xiaoman1221](https://yhdzz.cn) - 服务器运维+后台, 也是鸽子
+* <img src="https://avlist.deta.dev/RTAkland" alt="RTAkland" width="16px">[RTAkland](https://github.com/RTAkland) - 服务器管理, Mod开发者, 时不时上线
+* <img src="https://avlist.deta.dev/yokinanya" alt="yokinanya" width="16px">[yokinanya](https://github.com/yokinanya) - DGTES
   外服服主, [数据包](https://github.com/DangoTown/DGT_Extra_datapack)
   作者
-* ![Kelair445](https://avlist.deta.dev/Kelair445) [Kelair445](https://github.com/CaaMoe) - Mod开发者
-* ![Pane_Qwq](https://avlist.deta.dev/Pane_Qwq) `Pane_QwQ` - 建筑大师
-* ![hhzxlmc](https://avlist.deta.dev/hhzxlmc) `hhzxlmc` - 服内大佬
-* ![ChatNoir519](https://avlist.deta.dev/ChatNoir519) `ChatNoir519` - 鸽子
-* ![NarNaiq](https://avlist.deta.dev/NarNaiq) `NarNaiq` - 鸽子
-* ![livorith](https://avlist.deta.dev/livorith) `livorith` - 大佬
-* ![418cute](https://avlist.deta.dev/418cute) `418cute` - 大佬
-* ![xilongfei](https://avlist.deta.dev/xilongfei) `xilongfei` - 南通
-* ![PiPi_rock](https://avlist.deta.dev/PiPi_rock) `PiPi_rock` - 烧杯
-* ![Wind___](https://avlist.deta.dev/Wind___) `Wind___` - 成员
-* ![Xiang_Q1u](https://avlist.deta.dev/Xiang_Q1u) `Xiang_Q1u` - 红石大佬, 担任内服红石审核
-* ![Ender_DAG](https://avlist.deta.dev/Ender_DAG) `Ender_DAG` - 搓环大师, 但也算是半个鸽子, 担任内服审核
-* ![Pixar_Tutu](https://avlist.deta.dev/Pixar_Tutu) `Pixar_Tutu` - ***~~null~~***
-* ![XiaoxiaoLu](https://avlist.deta.dev/XiaoxiaoLu) `XiaoxiaoLu_` - 大佬
-* ![wu_hui_](https://avlist.deta.dev/wu_hui_) `wu_hui_` - 成员
-* ![XinJiangNi](https://avlist.deta.dev/XinJiangNi) `XinJiangNi` - 成员
-* ![xixijie0](https://avlist.deta.dev/xixijie0) `xixijie0` - 成员
-* ![_Yttrium](https://avlist.deta.dev/_Yttrium) `_Yttrium` - 成员
-* ![Pixel_leaf](https://avlist.deta.dev/Pixel_leaf) `Pixel_leaf` - 建筑大师
-* ![Culacc1no](https://avlist.deta.dev/Culacc1no) `Culacc1no` - 鸽子
+* <img src="https://avlist.deta.dev/Kelair445" alt="Kelair445" width="16px">[Kelair445](https://github.com/CaaMoe) - Mod开发者
+* <img src="https://avlist.deta.dev/Pane_QwQ" alt="Pane_QwQ" width="16px">`Pane_QwQ` - 建筑大师
+* <img src="https://avlist.deta.dev/hhzxlmc" alt="hhzxlmc" width="16px">`hhzxlmc` - 服内大佬
+* <img src="https://avlist.deta.dev/ChatNoir519" alt="ChatNoir519" width="16px">`ChatNoir519` - 鸽子
+* <img src="https://avlist.deta.dev/NarNaiq" alt="NarNaiq" width="16px">`NarNaiq` - 鸽子
+* <img src="https://avlist.deta.dev/livorith" alt="livorith" width="16px">`livorith` - 大佬
+* <img src="https://avlist.deta.dev/418cute" alt="418cute" width="16px">`418cute` - 大佬
+* <img src="https://avlist.deta.dev/xilongfei" alt="xilongfei" width="16px">`xilongfei` - 南通
+* <img src="https://avlist.deta.dev/PiPi_rock" alt="PiPi_rock" width="16px">`PiPi_rock` - 烧杯
+* <img src="https://avlist.deta.dev/Wind___" alt="Wind___" width="16px">`Wind___` - 成员
+* <img src="https://avlist.deta.dev/XiangQ1u" alt="Xiang_Q1u" width="16px">`Xiang_Q1u` - 红石大佬, 担任内服红石审核
+* <img src="https://avlist.deta.dev/Ender_DAG" alt="Ender_DAG" width="16px">`Ender_DAG` - 搓环大师, 但也算是半个鸽子, 担任内服审核
+* <img src="https://avlist.deta.dev/Pixar_Tutu" alt="Pixar_Tutu" width="16px">`Pixar_Tutu` - ***~~null~~***
+* <img src="https://avlist.deta.dev/XiaoxiaoLu" alt="XiaoxiaoLu" width="16px">`XiaoxiaoLu_` - 大佬
+* <img src="https://avlist.deta.dev/wu_hui" alt="wu_hui" width="16px">`wu_hui_` - 成员
+* <img src="https://avlist.deta.dev/XinJiangNi" alt="XinJiangNi" width="16px">`XinJiangNi` - 成员
+* <img src="https://avlist.deta.dev/xixijie0" alt="xixijie0" width="16px">`xixijie0` - 成员
+* <img src="https://avlist.deta.dev/_Yttrium" alt="_Yttrium" width="16px">`_Yttrium` - 成员
+* <img src="https://avlist.deta.dev/Pixel_leaf" alt="Pixel_leaf" width="16px">`Pixel_leaf` - 建筑大师
+* <img src="https://avlist.deta.dev/Culacc1no" alt="Culacc1no" width="16px">`Culacc1no` - 鸽子
 
 ### 特殊部分
 
-* ![Tassel_](https://avlist.deta.dev/Tassel_) ~~`Tassel_`~~ - 已被封禁, 原因: `作弊`
+* <img src="https://avlist.deta.dev/Tassel_" alt="Tassel_" width="16px"> ~~`Tassel_`~~ - 已被封禁, 原因: `作弊`
 * ~~`chengsheng5566`~~ - 已主动退出, 原因: `未知`
 
 ## 注意事项
