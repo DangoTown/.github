@@ -41,12 +41,12 @@
 * <img src="https://avlist.deta.dev/hhzxlmc" alt="hhzxlmc" width="16px">`hhzxlmc` - 服内大佬
 * <img src="https://avlist.deta.dev/ChatNoir519" alt="ChatNoir519" width="16px">`ChatNoir519` - 鸽子
 * <img src="https://avlist.deta.dev/NarNaiq" alt="NarNaiq" width="16px">`NarNaiq` - 鸽子
-* <img src="https://avlist.deta.dev/livorith" alt="livorith" width="16px">`livorith` - 大佬
+* <img src="https://crafatar.com/avatars/7327caa9-90ac-4397-9ea4-d7ab89e609dc?overlay=true" alt="livorth" width="16px">`livorth` - 大佬
 * <img src="https://avlist.deta.dev/418cute" alt="418cute" width="16px">`418cute` - 大佬
 * <img src="https://avlist.deta.dev/xilongfei" alt="xilongfei" width="16px">`xilongfei` - 南通
 * <img src="https://avlist.deta.dev/PiPi_rock" alt="PiPi_rock" width="16px">`PiPi_rock` - 烧杯
 * <img src="https://avlist.deta.dev/Wind___" alt="Wind___" width="16px">`Wind___` - 成员
-* <img src="https://avlist.deta.dev/XiangQ1u" alt="Xiang_Q1u" width="16px">`Xiang_Q1u` - 红石大佬, 担任内服红石审核
+* <img src="https://crafthead.net/avatar/0599eb28f2d74fa1b87526bfbc8359dd" alt="Xiang_Q1u" width="16px">`Xiang_Q1u` - 红石大佬, 担任内服红石审核
 * <img src="https://avlist.deta.dev/Ender_DAG" alt="Ender_DAG" width="16px">`Ender_DAG` - 搓环大师, 但也算是半个鸽子, 担任内服审核
 * <img src="https://avlist.deta.dev/Pixar_Tutu" alt="Pixar_Tutu" width="16px">`Pixar_Tutu` - ***~~null~~***
 * <img src="https://avlist.deta.dev/XiaoxiaoLu" alt="XiaoxiaoLu" width="16px">`XiaoxiaoLu_` - 大佬
