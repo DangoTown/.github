@@ -1,4 +1,6 @@
 <div align=center>
+ 
+<img src="https://www.dgtmc.top/assets/img/logo.jpg">
 
 <h2>嗨👋, 这里是<a href="https://dgtmc.top">DangoTown</a> | <a href="https://dgtmc.top">团子小镇</a>的Github仓库</h2>
 
