@@ -41,7 +41,7 @@
 * <img src="https://crafthead.net/avatar/RTAkland/16" alt="RTAkland">[RTAkland](https://github.com/RTAkland) - 服务器管理,
   Mod开发者, 时不时上线
 * <img src="https://crafthead.net/avatar/yokinaaa/16" alt="yokinaaa">[yokinanya](https://github.com/yokinanya) - DGTES
-  外服服主, [数据包](https://github.com/DangoTown/DGT_Extra_datapack)作者
+  外服服主, [数据包](https://github.com/DangoTown/DGT_Extra_datapack)作者，MCDR插件开发者
 * <img src="https://crafthead.net/avatar/Kelair445/16" alt="Kelair445">[Kelair445](https://github.com/CaaMoe) - Mod开发者
 * <img src="https://crafthead.net/avatar/Pane_Qwq/16" alt="Pane_QwQ">`Pane_QwQ` - 建筑大师
 * <img src="https://crafthead.net/avatar/hhzxlmc/16" alt="hhzxlmc">`hhzxlmc` - 服内大佬
