@@ -34,47 +34,47 @@
 > ***服务器版本目前是1.19.2***
 
 ## 服务器内各成员
-
-* <img src="https://crafthead.net/avatar/DurexAir/16" alt="DurexAir">`DurexAir` - 服主, 热衷于开服前几天钓鱼的屑
-* <img src="https://crafthead.net/avatar/xiaoman1221/16" alt="xiaoman1221">[xiaoman1221](https://yhdzz.cn) - 服务器运维+后台,
+<!-- https://crafatar.com/avatars/?size=16 -->
+* <img src="https://crafatar.com/avatars/efcc8b5a-9bb0-429e-95b8-7eb34ad37d76?size=16" alt="DurexAir">`DurexAir` - 服主, 热衷于开服前几天钓鱼的屑
+* <img src="https://crafatar.com/avatars/bf486575279b467e846ec54e86ee52df?size=16" alt="xiaoman1221">[xiaoman1221](https://yhdzz.cn) - 服务器运维+后台,
   也是鸽子
-* <img src="https://crafthead.net/avatar/RTAkland/16" alt="RTAkland">[RTAkland](https://github.com/RTAkland) - 服务器管理,
+* <img src="https://crafatar.com/avatars/bb033844e68e4909a6361a5d1821ddc4?size=16" alt="RTAkland">[RTAkland](https://github.com/RTAkland) - 服务器管理,
   Mod开发者, 时不时上线
 * <img src="https://crafatar.com/avatars/cd7f4f9fbd5a4106862a8ff0893fe5af?size=16" alt="yokinaaa"> <img src="https://crafatar.com/avatars/916c251133e44dbabc99c3e5cffa41ef?size=16" alt="yokinanya"> [yokinanya](https://github.com/yokinanya) - DGTES
   外服服主, [数据包](https://github.com/DangoTown/DGT_Extra_datapack)作者，MCDR插件开发者
-* <img src="https://crafthead.net/avatar/Kelair445/16" alt="Kelair445">[Kelair445](https://github.com/CaaMoe) - Mod开发者
-* <img src="https://crafthead.net/avatar/Pane_Qwq/16" alt="Pane_QwQ">`Pane_QwQ` - 建筑大师
-* <img src="https://crafthead.net/avatar/hhzxlmc/16" alt="hhzxlmc">`hhzxlmc` - 服内大佬
-* <img src="https://crafthead.net/avatar/ChatNoir519/16" alt="ChatNoir519">`ChatNoir519` - 鸽子
-* <img src="https://crafthead.net/avatar/NarNaiq/16" alt="NarNaiq">`NarNaiq` - 鸽子
-* <img src="https://crafthead.net/avatar/livorth/16" alt="livorth">`livorth` - 大佬
-* <img src="https://crafthead.net/avatar/418cute/16" alt="418cute">`418cute` - 大佬
-* <img src="https://crafthead.net/avatar/xilongfei/16" alt="xilongfei">`xilongfei` - 南通
-* <img src="https://crafthead.net/avatar/PiPi_rock/16" alt="PiPi_rock">`PiPi_rock` - 烧杯
-* <img src="https://crafthead.net/avatar/Wind___/16" alt="Wind___">`Wind___` - 成员
-* <img src="https://crafthead.net/avatar/Xiang_Q1u/16" alt="Xiang_Q1u">`Xiang_Q1u` - 红石大佬, 担任内服红石审核
-* <img src="https://crafthead.net/avatar/Ender_DAG/16" alt="Ender_DAG">`Ender_DAG` - 搓环大师, 但也算是半个鸽子, 担任内服审核
-* <img src="https://crafthead.net/avatar/Pixar_Tutu/16" alt="Pixar_Tutu">`Pixar_Tutu` - ***~~null~~***
-* <img src="https://crafthead.net/avatar/XiaoxiaoLu/16" alt="XiaoxiaoLu">`XiaoxiaoLu_` - 大佬
-* <img src="https://crafthead.net/avatar/wu_hui/16" alt="wu_hui" >`wu_hui_` - 成员
-* <img src="https://crafthead.net/avatar/XinJiangNi/16" alt="XinJiangNi" >`XinJiangNi` - 成员
-* <img src="https://crafthead.net/avatar/xixijie0/16" alt="xixijie0" >`xixijie0` - 成员
+* <img src="https://crafatar.com/avatars/ddc61e882b03427bb621ee0736958f7f?size=16" alt="Kelair445">[Kelair445](https://github.com/CaaMoe) - Mod开发者
+* <img src="https://crafatar.com/avatars/7728563beaed48ddb33fd885f9a10862?size=16" alt="Pane_QwQ">`Pane_QwQ` - 建筑大师
+* <img src="https://crafatar.com/avatars/02c7e8dd47d3412d85cbd82311e06259?size=16" alt="hhzxlmc">`hhzxlmc` - 服内大佬
+* <img src="https://crafatar.com/avatars/99a37c1d2ada462686995c8f20399d08?size=16" alt="ChatNoir519">`ChatNoir519` - 鸽子
+* <img src="https://crafatar.com/avatars/8c35435f90bf4e17803438ce26a17cc6?size=16" alt="NarNaiq">`NarNaiq` - 鸽子
+* <img src="https://crafatar.com/avatars/7327caa990ac43979ea4d7ab89e609dc?size=16" alt="livorth">`livorth` - 大佬
+* <img src="https://crafatar.com/avatars/f1fa5ccdb146448fad651453ee2a15aa?size=16" alt="418cute">`418cute` - 大佬
+* <img src="https://crafatar.com/avatars/c24fb001286f4d40a8a293247472f2c5?size=16" alt="xilongfei">`xilongfei` - 南通
+* <img src="https://crafatar.com/avatars/06d347685f9c422a90f59f05aae8dd91?size=16" alt="PiPi_rock">`PiPi_rock` - 烧杯
+* <img src="https://crafatar.com/avatars/0fbe08b7188044a5a77b5f984c6558fe?size=16" alt="Wind___">`Wind___` - 成员
+* <img src="https://crafatar.com/avatars/0599eb28f2d74fa1b87526bfbc8359dd?size=16" alt="Xiang_Q1u">`Xiang_Q1u` - 红石大佬, 担任内服红石审核
+* <img src="https://crafatar.com/avatars/186f7f0c5d5d428ab85740dbb7232af4?size=16" alt="Ender_DAG">`Ender_DAG` - 搓环大师, 但也算是半个鸽子, 担任内服审核
+* <img src="https://crafatar.com/avatars/e548ddd0a16445a396dccd1500b4d39d?size=16" alt="Pixar_Tutu">`Pixar_Tutu` - ***~~null~~***
+* <img src="https://crafatar.com/avatars/9cefcda841a7433ba4b93dde8ae2b50e?size=16" alt="XiaoxiaoLu">`XiaoxiaoLu_` - 大佬
+* <img src="https://crafatar.com/avatars/e5a8b74cfdcf4cbcbfbb22545916b1b1?size=16" alt="wu_hui" >`wu_hui_` - 成员
+* <img src="https://crafatar.com/avatars/2fb01532384e45748ebb82d6bd0d985a?size=16" alt="XinJiangNi" >`XinJiangNi` - 成员
+* <img src="https://crafatar.com/avatars/ab1f2e0a7a924a17ab82377d6b8befc4?size=16" alt="xixijie0" >`xixijie0` - 成员
 * <img src="https://crafthead.net/avatar/_Yttrium/16" alt="_Yttrium" >`_Yttrium` - 成员
-* <img src="https://crafthead.net/avatar/Pixel_leaf/16" alt="Pixel_leaf">`Pixel_leaf` - 建筑大师
+* <img src="https://crafatar.com/avatars/847984990551408da6b80d9644bc928e?size=16" alt="Pixel_leaf">`Pixel_leaf` - 建筑大师
 * <img src="https://crafthead.net/avatar/Culacc1no/16" alt="Culacc1no" >`Culacc1no` - 鸽子
 
 ### 特殊部分
 
-* <img src="https://crafthead.net/avatar/Tassel_/16" alt="Tassel_">~~`Tassel_`~~ - 已被封禁, 原因: `作弊`
-* <img src="https://crafthead.net/avatar/chensheng5566/16" alt="chensheng5566">~~`chengsheng5566`~~ - 已主动退出,
+* <img src="https://crafatar.com/avatars/6f9b015b6cf74ddaa3dc461965e93a25?size=16" alt="Tassel_">~~`Tassel_`~~ - 已被封禁, 原因: `作弊`
+* <img src="https://crafatar.com/avatars/00a54e63827a469aa334c64626a920a8?size=16" alt="chensheng5566">~~`chengsheng5566`~~ - 已主动退出,
   原因: `未知`
 
 > ***上面罗列的仅仅为已拥有白名单的玩家或者特殊原因被展示在页面上的玩家, 可能没有来得及更新***
 
 
-## 服务器实时拥有白名单玩家数量
+<!-- ## 服务器实时拥有白名单玩家数量
 
-<img src="https://realtime.deta.dev/realtime" alt="Counter" width="100px">
+<img src="https://realtime.deta.dev/realtime" alt="Counter" width="100px"> -->
 
 ## 注意事项
 
