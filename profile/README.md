@@ -21,7 +21,7 @@
   * [服务器简介](#服务器简介)
   * [服务器内各成员](#服务器内各成员)
     * [特殊部分](#特殊部分)
-  * [服务器实时拥有白名单玩家数量](#服务器实时拥有白名单玩家数量)
+  * [服务器状态](#服务器状态)
   * [注意事项](#注意事项)
   * [服务器配置](#服务器配置)
 <!-- TOC -->
@@ -70,7 +70,7 @@
 
 ### 服务器状态
 
-<img src=https://api.mcstatus.io/v2/widget/java/mc.dgtmc.top?dark=false alt="DGTMC">
+<img src="https://api.mcstatus.io/v2/widget/java/mc.dgtmc.top?dark=false" alt="DGTMC">
 
 ### 特殊部分
 
