@@ -70,7 +70,7 @@
 
 ### 服务器状态
 
-<img src="https://api.mcstatus.io/v2/widget/java/mc.dgtmc.top?dark=false" alt="DGTMC">
+<img src="https://api.mcstatus.io/v2/widget/java/mc.dgtmc.top?dark=false" alt="DGTMC" height="120" width=auto >
 
 ### 特殊部分
 
