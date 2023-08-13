@@ -35,7 +35,7 @@
 
 ## 服务器内各成员
 * <img src="https://crafatar.com/avatars/efcc8b5a-9bb0-429e-95b8-7eb34ad37d76?size=16" alt="DurexAir"> `DurexAir` - 服主, 热衷于开服前几天钓鱼的屑
-* <img src="https://crafatar.com/avatars/bf486575279b467e846ec54e86ee52df?size=16" alt="xiaoman1221"> [xiaoman1221](https://yhdzz.cn) - 服务器运维+后台,
+* <img src="https://crafatar.com/avatars/bf486575279b467e846ec54e86ee52df?size=16" alt="xiaoman1221"> [xiaoman1221](https://blog.dgtmc.top/) - 服务器运维+后台,
   也是鸽子
 * <img src="https://crafatar.com/avatars/bb033844e68e4909a6361a5d1821ddc4?size=16" alt="RTAkland"> [RTAkland](https://github.com/RTAkland) - 服务器管理,
   Mod开发者, 时不时上线
