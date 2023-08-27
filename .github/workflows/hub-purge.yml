@@ -1,12 +1,16 @@
+name: clean images cache
 on:
+  push:
   workflow_dispatch:
   schedule:
-    - cron: '0 15 * * *'
+    - cron: '0 21 * * *'
 
 jobs:
   purge:
     runs-on: ubuntu-latest
     steps:
-      - uses: koki-develop/hub-purge-action@v1
+      - uses: koki-develop/hub-purge-action@v1.0.3
         with:
           repository: DangoTown/.github
+          branch: main
+          path: profile/README.md
