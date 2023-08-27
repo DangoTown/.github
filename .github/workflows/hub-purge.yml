@@ -1,10 +1,12 @@
-name: claer-images-cache
-on: [push , workflow_dispatch]
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 15 * * *'
+
 jobs:
-  clear-cache:
-    name: Hub Purge
-    uses: koki-develop/hub-purge-action@v1.0.3
-    with:
-      repository: koki-develop/koki-develop
-      branch: main
-      path: profile/README.md
+  purge:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: koki-develop/hub-purge-action@v1
+        with:
+          repository: DangoTown/.github
