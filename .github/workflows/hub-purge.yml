@@ -9,8 +9,7 @@ jobs:
   purge:
     runs-on: ubuntu-latest
     steps:
-      - uses: koki-develop/hub-purge-action@v1.0.3
+      - uses: syossan27/purge-github-readme-image@v1.0.0
         with:
-          repository: DangoTown/.github
-          branch: main
-          path: profile/README.md
+          repository: ${github.repository}
+          token: ${{ secrets.GITHUB_TOKEN }}
