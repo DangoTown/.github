@@ -2,7 +2,7 @@
  
 <img src="https://www.dgtmc.top/assets/img/logo.jpg">
 
-<h2>嗨👋, 这里是<a href="https://dgtmc.top">DangoTown</a> | <a href="https://dgtmc.top">团子小镇</a>的Github仓库</h2>
+<h2>嗨👋, 这里是 <a href="https://dgtmc.top">DangoTown</a> | <a href="https://dgtmc.top">团子小镇</a>的Github仓库</h2>
 
 <h5>注意: 此页有大量图片</h5>
 
