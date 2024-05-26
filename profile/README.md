@@ -36,37 +36,37 @@
 > ***服务器版本目前是1.20.1***
 
 ## 服务器内各成员
-* <img src="https://api.mineatar.io/face/efcc8b5a-9bb0-429e-95b8-7eb34ad37d76" alt="DurexAir"> `DurexAir` - 服主, 热衷于开服前几天钓鱼的屑
-* <img src="https://api.mineatar.io/face/bf486575279b467e846ec54e86ee52df" alt="xiaoman1221"> [xiaoman1221](https://github.com/xiaoman1221) - 服务器运维+后台
-* <img src="https://api.mineatar.io/face/bb033844e68e4909a6361a5d1821ddc4" alt="RTAkland"> [RTAkland](https://github.com/RTAkland) - 服务器管理, Mod开发者, 时不时上线
-* <img src="https://api.mineatar.io/face/cd7f4f9fbd5a4106862a8ff0893fe5af" alt="yokinaaa"> <img src="https://api.mineatar.io/face/916c251133e44dbabc99c3e5cffa41ef" alt="yokinanya"> [yokinanya](https://github.com/yokinanya) - DGTES
+* <img src="https://mcavatar.rtast.cn/uuid/efcc8b5a-9bb0-429e-95b8-7eb34ad37d76" alt="DurexAir"> `DurexAir` - 服主, 热衷于开服前几天钓鱼的屑
+* <img src="https://mcavatar.rtast.cn/uuid/bf486575279b467e846ec54e86ee52df" alt="xiaoman1221"> [xiaoman1221](https://github.com/xiaoman1221) - 服务器运维+后台
+* <img src="https://mcavatar.rtast.cn/uuid/bb033844e68e4909a6361a5d1821ddc4" alt="RTAkland"> [RTAkland](https://github.com/RTAkland) - 服务器管理, Mod开发者, 时不时上线
+* <img src="https://mcavatar.rtast.cn/uuid/cd7f4f9fbd5a4106862a8ff0893fe5af" alt="yokinaaa"> <img src="https://mcavatar.rtast.cn/uuid/916c251133e44dbabc99c3e5cffa41ef" alt="yokinanya"> [yokinanya](https://github.com/yokinanya) - DGTES
   外服服主, [数据包](https://github.com/DangoTown/DGT_Extra_datapack)作者，MCDR插件开发者
-* <img src="https://api.mineatar.io/face/ddc61e882b03427bb621ee0736958f7f" alt="Kelair445"> [Kelair445](https://github.com/CaaMoe) - Mod开发者
-* <img src="https://api.mineatar.io/face/7728563beaed48ddb33fd885f9a10862" alt="Pane_QwQ"> `Pane_QwQ` - 建筑大师
-* <img src="https://api.mineatar.io/face/02c7e8dd47d3412d85cbd82311e06259" alt="hhzxlmc"> `hhzxlmc` - 服内大佬
-* <img src="https://api.mineatar.io/face/99a37c1d2ada462686995c8f20399d08" alt="ChatNoir519"> `ChatNoir519` - 鸽子
-* <img src="https://api.mineatar.io/face/8c35435f90bf4e17803438ce26a17cc6" alt="NarNaiq"> `NarNaiq` - 鸽子
-* <img src="https://api.mineatar.io/face/7327caa990ac43979ea4d7ab89e609dc" alt="livorth"> `livorth` - 大佬
-* <img src="https://api.mineatar.io/face/f1fa5ccdb146448fad651453ee2a15aa" alt="418cute"> `418cute` - 大佬
-* <img src="https://api.mineatar.io/face/c24fb001286f4d40a8a293247472f2c5" alt="xilongfei"> `xilongfei` - 南通
-* <img src="https://api.mineatar.io/face/06d347685f9c422a90f59f05aae8dd91" alt="PiPi_rock"> `PiPi_rock` - 烧杯
-* <img src="https://api.mineatar.io/face/0fbe08b7188044a5a77b5f984c6558fe" alt="Wind___"> `Wind___` - 成员
-* <img src="https://api.mineatar.io/face/0599eb28f2d74fa1b87526bfbc8359dd" alt="Xiang_Q1u"> `Xiang_Q1u` - 红石大佬, 担任内服红石审核
-* <img src="https://api.mineatar.io/face/186f7f0c5d5d428ab85740dbb7232af4" alt="Ender_DAG"> `Ender_DAG` - 搓环大师, 但也算是半个鸽子, 担任内服审核
-* <img src="https://api.mineatar.io/face/e548ddd0a16445a396dccd1500b4d39d" alt="Pixar_Tutu"> `Pixar_Tutu` - ***~~null~~***
-* <img src="https://api.mineatar.io/face/9cefcda841a7433ba4b93dde8ae2b50e" alt="XiaoxiaoLu"> `XiaoxiaoLu_` - 大佬
-* <img src="https://api.mineatar.io/face/e5a8b74cfdcf4cbcbfbb22545916b1b1" alt="wu_hui" > `wu_hui_` - 成员
-* <img src="https://api.mineatar.io/face/847984990551408da6b80d9644bc928e" alt="Pixel_leaf"> `Pixel_leaf` - 建筑大师
-* <img src="https://api.mineatar.io/face/1f374886-b52e-4364-b3e8-3d84dcac1b11" alt="Tasylia"> `Tasylia` - 成员
-* <img src="https://api.mineatar.io/face/36f7d688-0ea5-4f40-a956-f92f3b6dfff8" alt="HaoliuLaier"> `HaoliuLaier` - 成员
-* <img src="https://api.mineatar.io/face/2d853c17-6675-4e95-834e-94df17740864" alt="NorthDou"> `NorthDou` - 成员
-* <img src="https://api.mineatar.io/face/867ad3a6-58e1-4778-9686-a6fba9807d93" alt="MRrAI"> `MRrAI` - 成员
-* <img src="https://api.mineatar.io/face/ef164838-039b-45bf-b60f-6f8fd375eed0" alt="shixiaoniana"> `shixiaoniana` - 成员
-* <img src="https://api.mineatar.io/face/2dec99e1-b7c7-4bd3-b5fd-bbbf4315a427" alt="sexy_BOND"> `sexy_BOND` - 成员
-* <img src="https://api.mineatar.io/face/17b77e3a-1cb0-436e-badc-9abf74a93aeb" alt="polarabit"> `polarabit` - 成员
-* <img src="https://api.mineatar.io/face/0487b513-1e11-4588-aabc-44c81413b071" alt="Heroic_Nexus"> `Heroic_Nexus` - 成员
+* <img src="https://mcavatar.rtast.cn/uuid/ddc61e882b03427bb621ee0736958f7f" alt="Kelair445"> [Kelair445](https://github.com/CaaMoe) - Mod开发者
+* <img src="https://mcavatar.rtast.cn/uuid/7728563beaed48ddb33fd885f9a10862" alt="Pane_QwQ"> `Pane_QwQ` - 建筑大师
+* <img src="https://mcavatar.rtast.cn/uuid/02c7e8dd47d3412d85cbd82311e06259" alt="hhzxlmc"> `hhzxlmc` - 服内大佬
+* <img src="https://mcavatar.rtast.cn/uuid/99a37c1d2ada462686995c8f20399d08" alt="ChatNoir519"> `ChatNoir519` - 鸽子
+* <img src="https://mcavatar.rtast.cn/uuid/8c35435f90bf4e17803438ce26a17cc6" alt="NarNaiq"> `NarNaiq` - 鸽子
+* <img src="https://mcavatar.rtast.cn/uuid/7327caa990ac43979ea4d7ab89e609dc" alt="livorth"> `livorth` - 大佬
+* <img src="https://mcavatar.rtast.cn/uuid/f1fa5ccdb146448fad651453ee2a15aa" alt="418cute"> `418cute` - 大佬
+* <img src="https://mcavatar.rtast.cn/uuid/c24fb001286f4d40a8a293247472f2c5" alt="xilongfei"> `xilongfei` - 南通
+* <img src="https://mcavatar.rtast.cn/uuid/06d347685f9c422a90f59f05aae8dd91" alt="PiPi_rock"> `PiPi_rock` - 烧杯
+* <img src="https://mcavatar.rtast.cn/uuid/0fbe08b7188044a5a77b5f984c6558fe" alt="Wind___"> `Wind___` - 成员
+* <img src="https://mcavatar.rtast.cn/uuid/0599eb28f2d74fa1b87526bfbc8359dd" alt="Xiang_Q1u"> `Xiang_Q1u` - 红石大佬, 担任内服红石审核
+* <img src="https://mcavatar.rtast.cn/uuid/186f7f0c5d5d428ab85740dbb7232af4" alt="Ender_DAG"> `Ender_DAG` - 搓环大师, 但也算是半个鸽子, 担任内服审核
+* <img src="https://mcavatar.rtast.cn/uuid/e548ddd0a16445a396dccd1500b4d39d" alt="Pixar_Tutu"> `Pixar_Tutu` - ***~~null~~***
+* <img src="https://mcavatar.rtast.cn/uuid/9cefcda841a7433ba4b93dde8ae2b50e" alt="XiaoxiaoLu"> `XiaoxiaoLu_` - 大佬
+* <img src="https://mcavatar.rtast.cn/uuid/e5a8b74cfdcf4cbcbfbb22545916b1b1" alt="wu_hui" > `wu_hui_` - 成员
+* <img src="https://mcavatar.rtast.cn/uuid/847984990551408da6b80d9644bc928e" alt="Pixel_leaf"> `Pixel_leaf` - 建筑大师
+* <img src="https://mcavatar.rtast.cn/uuid/1f374886-b52e-4364-b3e8-3d84dcac1b11" alt="Tasylia"> `Tasylia` - 成员
+* <img src="https://mcavatar.rtast.cn/uuid/36f7d688-0ea5-4f40-a956-f92f3b6dfff8" alt="HaoliuLaier"> `HaoliuLaier` - 成员
+* <img src="https://mcavatar.rtast.cn/uuid/2d853c17-6675-4e95-834e-94df17740864" alt="NorthDou"> `NorthDou` - 成员
+* <img src="https://mcavatar.rtast.cn/uuid/867ad3a6-58e1-4778-9686-a6fba9807d93" alt="MRrAI"> `MRrAI` - 成员
+* <img src="https://mcavatar.rtast.cn/uuid/ef164838-039b-45bf-b60f-6f8fd375eed0" alt="shixiaoniana"> `shixiaoniana` - 成员
+* <img src="https://mcavatar.rtast.cn/uuid/2dec99e1-b7c7-4bd3-b5fd-bbbf4315a427" alt="sexy_BOND"> `sexy_BOND` - 成员
+* <img src="https://mcavatar.rtast.cn/uuid/17b77e3a-1cb0-436e-badc-9abf74a93aeb" alt="polarabit"> `polarabit` - 成员
+* <img src="https://mcavatar.rtast.cn/uuid/0487b513-1e11-4588-aabc-44c81413b071" alt="Heroic_Nexus"> `Heroic_Nexus` - 成员
 
-<!-- * <img src="https://api.mineatar.io/face/ " alt=""> `` - 成员 -->
+<!-- * <img src="https://mcavatar.rtast.cn/uuid/ " alt=""> `` - 成员 -->
 
 ### 服务器状态
 
@@ -74,8 +74,8 @@
 
 ### 特殊部分
 
-* <img src="https://api.mineatar.io/face/6f9b015b6cf74ddaa3dc461965e93a25" alt="Tassel_"> `Tassel_` - 已被封禁, 原因: `作弊`
-* <img src="https://api.mineatar.io/face/00a54e63827a469aa334c64626a920a8" alt="chensheng5566"> `chengsheng5566` - 已主动退出,
+* <img src="https://mcavatar.rtast.cn/uuid/6f9b015b6cf74ddaa3dc461965e93a25" alt="Tassel_"> `Tassel_` - 已被封禁, 原因: `作弊`
+* <img src="https://mcavatar.rtast.cn/uuid/00a54e63827a469aa334c64626a920a8" alt="chensheng5566"> `chengsheng5566` - 已主动退出,
   原因: `未知`
 > ***上面罗列的仅仅为已拥有白名单的玩家或者特殊原因被展示在页面上的玩家, 可能没有来得及更新***
 
